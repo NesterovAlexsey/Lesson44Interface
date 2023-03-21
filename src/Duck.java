@@ -1,4 +1,4 @@
-public class Duck implements CanFly, CanSwim, CanRun{
+public class Duck implements CanFly, CanSwim, CanRun {
 
   @Override
   public void fly() {

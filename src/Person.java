@@ -2,11 +2,11 @@ public class Person implements CanRun, CanSwim{
 
   @Override
   public void run(){
-    System.out.println("Умеет бегать");
+    System.out.println("Люди умеют бегать");
   }
 
   @Override
   public void swim(){
-    System.out.println("умеет плавать");
+    System.out.println("Люди умеют плавать");
   }
 }
